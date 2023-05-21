@@ -18,6 +18,8 @@ Mostly trying to do it in the least lines of code.
 <br>
 *Clone repository by running `git clone https://github.com/vluz/GPT3miniGUI.git` in a command prompt*
 <br>
+*Change into the directory with `cd GPT3miniGUI`*
+<br>
 *Install requirements by running `pip install -r requirements.txt`*
 <br>
 *then enter `streamlit run chat3gui.py` to run*
