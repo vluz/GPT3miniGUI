@@ -14,6 +14,10 @@ Has been made to be small on purpose for Python demonstration puropses.
 Mostly trying to do it in the least lines of code.
 <br>
 <br>
+**Running:**
+<br>
+*Clone repository by running `git clone https://github.com/vluz/GPT3miniGUI.git` in a command prompt*
+<br>
 *Install requirements by running `pip install -r requirements.txt`*
 <br>
 *then enter `streamlit run chat3gui.py` to run*
