@@ -21,6 +21,7 @@ Mostly trying to do it in the least lines of code.
 <br>
 `run.bat` is included with both steps in Windows
 <br>
+<br>
 Dependencies:
 <br>
 freeGPT - https://github.com/Ruu3f/freeGPT
