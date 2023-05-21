@@ -1,5 +1,5 @@
 # GPT3 mini GUI
-A tyny Python streamlit app based on freeGPT 
+A tiny Python streamlit app based on freeGPT 
 <br>
 <br>
 freeGPT package does all the heavy lifting. 
