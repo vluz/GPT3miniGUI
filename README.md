@@ -28,5 +28,5 @@ freeGPT - https://github.com/Ruu3f/freeGPT
 <br>
 streamlit - https://github.com/streamlit/streamlit
 <br>
-tls_client - An advanced HTTP library, required bu freeGPT
+tls_client - An advanced HTTP library, required by freeGPT
 <br>
