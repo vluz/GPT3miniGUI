@@ -22,7 +22,7 @@ Mostly trying to do it in the least lines of code.
 `run.bat` is included with both steps in Windows
 <br>
 <br>
-Dependencies:
+**Dependencies:**
 <br>
 freeGPT - https://github.com/Ruu3f/freeGPT
 <br>
