@@ -1,10 +1,11 @@
 # GPT3 mini GUI
-A tiny Python streamlit app based on freeGPT 
-<br>
-<br>
+### A tiny Python streamlit app based on freeGPT 
+
+<hr>
+
 freeGPT package does all the heavy lifting. 
 <br>
-streamlit does everything else, query the user, and display results.
+Streamlit does everything else, query the user, and display results.
 <br>
 <br>
 Done for the heck of it, should not be used in production.
